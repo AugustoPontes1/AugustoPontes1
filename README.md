@@ -52,7 +52,7 @@
   <img align ="center" alt="augustopontes1-react" height="40" width="45" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg">
   <img align ="center" alt="augustopontes1-ubuntu" height="40" widht="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png">
   <img align ="center" alt="augustopontes1-aws" height="30" widht="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
-  <img align ="center" alt="augustopontes1-vercel" height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821">
+  <img align ="center" alt="augustopontes1-vercel" height="60" width="60" src="https://logowik.com/content/uploads/images/vercel1868.jpg">
   <img align ="center" alt="augustopontes1-docker" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img align ="center" alt="augustopontes1-rabbitmq" height="45" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png">
   <img align ="center" alt="augustopontes1-postgres" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png">
