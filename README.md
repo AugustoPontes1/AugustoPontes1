@@ -20,7 +20,7 @@
 <section>
     <h2>🇧🇷🤓Sobre Mim:</h2>
     <h3 align="center">
-        Desenvolvedor de Software com 3 anos de experiência em Backend Python
+        Desenvolvedor de Software com 4 anos de experiência em Backend Python
         me tornei um excelente solucionador de problemas, pensando além do código, 
         e com o objetivo de entregar valor, 
         não só ao produto, mas também um significado importante
@@ -31,7 +31,7 @@
 <section>
     <h2>🇺🇸😊About me:</h2>
     <h3 align="center">
-        Software Developer with 3 years of experience in Python Backend.
+        Software Developer with 4 years of experience in Python Backend.
         I have become an excellent problem solver, thinking beyond the code,
         with the goal of delivering value, not only to the product itself,
         but also with meaningful impact to the people who will use it.
