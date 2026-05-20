@@ -9,11 +9,11 @@
 
 <hr />
 
-<div align="center">
-  <a href="https://github.com/AugustoPontes1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustopontes1&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustopontes1&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AugustoPontes1&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AugustoPontes1&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AugustoPontes1&theme=tokyonight)
 
 <hr />
 
