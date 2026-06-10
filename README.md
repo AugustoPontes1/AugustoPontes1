@@ -48,7 +48,7 @@
     
    <p align="left">
       <img 
-        src="https://skillicons.dev/icons?i=ubuntu,aws,docker,postgres,mysql,wordpress,gitlab" 
+        src="https://skillicons.dev/icons?i=ubuntu,aws,docker,postgres,mysql,wordpress,gitlab,terraform,k8s" 
       />
   </p>
 </div>
