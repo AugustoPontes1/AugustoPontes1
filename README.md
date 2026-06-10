@@ -50,7 +50,11 @@
       <img 
         src="https://skillicons.dev/icons?i=ubuntu,aws,docker,postgres,mysql,wordpress,gitlab,terraform,k8s" 
       />
-  </p>
+<p align="left">
+  <img height="50" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/zabbix.svg" alt="Zabbix"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/haproxy.svg" alt="HAProxy"/>
+</p>
 </div>
 
 <div style="display: inline_block"><br>
