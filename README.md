@@ -48,7 +48,7 @@
     
    <p align="left">
       <img 
-        src="https://skillicons.dev/icons?i=ubuntu,aws,docker,postgres,mysql,wordpress,gitlab,terraform,k8s" 
+        src="https://skillicons.dev/icons?i=ubuntu,arch,aws,docker,postgres,mysql,wordpress,githubactions,gitlab,terraform,k8s" 
       />
 <p align="left">
   <img height="40" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox"/>
