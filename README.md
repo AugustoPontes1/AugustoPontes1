@@ -39,16 +39,28 @@
 </section>
 
 <div style="display: inline_block"><br>
-  <h2>Linguagens e Tecnologias(Languages and Technologies): </h2>
+  <h2>Back-End</h2>
     <p align="left">
       <img 
-        src="https://skillicons.dev/icons?i=python,cpp,java,nodejs,django,html,css,js,react" 
+        src="https://skillicons.dev/icons?i=python,django,cpp,java,nodejs" 
       />
     </p>
-    
+  <h2>Front-End</h2>
+    <p align="left">
+      <img 
+        src="https://skillicons.dev/icons?i=html,css,js,react" 
+      />
+    </p>
+  <h2>DB</h2>
+    <p align="left">
+      <img 
+        src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" 
+      />
+    </p>
+  <h2>DevOps & Infrastructure(Tools)</h2>
    <p align="left">
       <img 
-        src="https://skillicons.dev/icons?i=ubuntu,arch,aws,docker,postgres,mysql,wordpress,githubactions,gitlab,terraform,k8s" 
+        src="https://skillicons.dev/icons?i=ubuntu,arch,aws,docker,githubactions,gitlab,terraform,k8s" 
       />
 <p align="left">
   <img height="40" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox"/>
