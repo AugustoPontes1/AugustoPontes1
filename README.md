@@ -54,7 +54,7 @@
   <h2>DB</h2>
     <p align="left">
       <img 
-        src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" 
+        src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,sqlserver"
       />
     </p>
   <h2>DevOps & Infrastructure(Tools)</h2>
